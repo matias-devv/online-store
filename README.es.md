@@ -102,12 +102,12 @@ Este enfoque permite levantar toda la arquitectura de microservicios de forma in
 
 ### Requisitos previos
 
+- Git
 - Docker
-- Docker Compose
 
 ### Ejecución del sistema
 
 Desde la raíz de este repositorio, ejecutar:
 
 ```bash
-docker-compose up --build
+docker compose up --build
