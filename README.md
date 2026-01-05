@@ -2,6 +2,8 @@
 
 # 🛒 Online Store
 
+<br>
+
 ## Overview
 
 This project is an **online home appliances store** developed using a **microservices architecture**.  
@@ -15,6 +17,8 @@ Each microservice has its own repository and detailed documentation.
 > 📌 This project corresponds exclusively to the **backend** and runs in a **local environment**.
 
 ---
+
+<br>
 
 ## General Architecture
 
@@ -32,6 +36,8 @@ Key architectural characteristics:
 
 ---
 
+<br>
+
 ## Microservices
 
 | Microservice | Responsibility | Repository |
@@ -48,6 +54,8 @@ Each microservice has its own repository with detailed technical documentation.
 
 ---
 
+<br>
+
 ## API Gateway
 
 The **API Gateway** acts as the **single entry point** to the system.
@@ -63,6 +71,8 @@ At this stage, the gateway is used exclusively for routing, leaving room for fut
 
 ---
 
+<br>
+
 ## Technologies Used
 
 - **Java 17**
@@ -77,6 +87,8 @@ At this stage, the gateway is used exclusively for routing, leaving room for fut
 
 ---
 
+<br>
+
 ## Configuration Management
 
 Microservice configuration is centrally managed using **Spring Cloud Config Server**.
@@ -86,6 +98,8 @@ Microservice configuration is centrally managed using **Spring Cloud Config Serv
 - Enables scalability and consistency across services
 
 ---
+
+<br>
 
 ## Local Execution
 
@@ -99,10 +113,14 @@ This approach allows the full microservices architecture to be started in an int
 - Business microservices  
 - Databases associated with each microservice  
 
+<br>
+
 ### Prerequisites
 
 - Git
 - Docker
+
+<br>
 
 ### Running the system
 
