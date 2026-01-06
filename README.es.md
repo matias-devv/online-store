@@ -42,10 +42,10 @@ Características principales de la arquitectura:
 
 | Microservicio | Responsabilidad | Repositorio |
 |---------------|-----------------|-------------|
-| users-service | Gestión de usuarios | 🔗 [link](https://github.com/matias-devv/online-store-users-service) |
-| products-service | Catálogo de productos | 🔗 [link](https://github.com/matias-devv/online-store-products-service) |
 | shopping-cart-service | Gestión de carritos de compra | 🔗 [link](https://github.com/matias-devv/online-store-shopping-carts-service) |
 | sales-service | Procesamiento de ventas | 🔗 [link](https://github.com/matias-devv/online-store-sales-service) |
+| users-service | Gestión de usuarios | 🔗 [link](https://github.com/matias-devv/online-store-users-service) |
+| products-service | Catálogo de productos | 🔗 [link](https://github.com/matias-devv/online-store-products-service) |
 | api-gateway | Enrutamiento de solicitudes | 🔗 [link](https://github.com/matias-devv/online-store-api-gateway) |
 | eureka-server | Registro y descubrimiento de servicios | 🔗 [link](https://github.com/matias-devv/online-store-eureka-server) |
 | config-server | Configuración centralizada | 🔗 [link](https://github.com/matias-devv/online-store-config-server) |
